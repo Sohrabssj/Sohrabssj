@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sohrabssj
+- 👋 Hi, I’m Sohrab Johari
 - 👀 I’m interested in climbing
 - 🌱 I’m currently learning Kotlin programming
 - 💞️ I’m looking to collaborate on big companies in the near future
